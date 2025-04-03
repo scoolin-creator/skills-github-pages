@@ -1,6 +1,9 @@
 ---
+layout: default
 title: Zdarec!
 ---
+
+<h1>{{ "Hello WorLd!" | downcase }}</h1>
 
 # Totok je hlavicka prvni
 ## Totok je hlavicka druha
